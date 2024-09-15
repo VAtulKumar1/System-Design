@@ -1,4 +1,4 @@
-package SOLID_Principles.single_responsibility_principle.open_closed_principle;
+package SOLID_Principles.open_closed_principle;
 // open closed principle says that
 /*
 * open and closed principles says that a class is open for extension
